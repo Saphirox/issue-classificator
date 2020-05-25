@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "November.Api", "November.Api\November.Api.fsproj", "{7913B5EC-FF3E-4CB3-84C0-58C44D76BD39}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "November.UI", "November.UI\November.UI.fsproj", "{74625945-E968-45AD-B19F-A4623864B0DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7913B5EC-FF3E-4CB3-84C0-58C44D76BD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7913B5EC-FF3E-4CB3-84C0-58C44D76BD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7913B5EC-FF3E-4CB3-84C0-58C44D76BD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7913B5EC-FF3E-4CB3-84C0-58C44D76BD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74625945-E968-45AD-B19F-A4623864B0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74625945-E968-45AD-B19F-A4623864B0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74625945-E968-45AD-B19F-A4623864B0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74625945-E968-45AD-B19F-A4623864B0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
